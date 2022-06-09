@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+#este script imprime por pantalla 10 veces "Best School"
+
+for i in School 10\n
+do 
+ echo"Best $i"
+done
