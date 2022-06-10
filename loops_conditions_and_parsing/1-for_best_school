@@ -1,3 +1,7 @@
 #!/usr/bin/env bash
-#este script imprime por pantalla 10 veces "Best School'
-./1-for_Best_School
+#this script print 10 times " Best School"
+for z in [[ $z -ne 10 ]]
+do 
+	echo "Best School"
+       	((z++))
+done
