@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #this script print 10 times " Best School"
-for z in $z -le 10
+for z in $z -le "10"
 do 
 	echo "Best School"
 	((z++))
